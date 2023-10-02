@@ -5,6 +5,8 @@ import java.sql.Date;
 import java.util.List;
 
 import DAO.ReservaDAO;
+import factory.ConexionFactory;
+import modelo.Reserva;
 
 
 public class ReservaControlador {
